@@ -1,0 +1,6 @@
+{
+  "name": "ACCOOM",
+  "description": "Verified accommodation and property marketplace connecting buyers, students, agents, and verified listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
